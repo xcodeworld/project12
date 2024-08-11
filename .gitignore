@@ -1,0 +1,8 @@
+/rabbitmart/client/node_modules
+/rabbitmart/notification/node_modules
+/rabbitmart/orders/node_modules
+/rabbitmart/payments/node_modules
+/rabbitmart/products/node_modules
+/rabbitmart/server/node_modules
+/rabbitmart/shipping/node_modules
+/rabbitmart/users/node_modules
